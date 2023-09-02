@@ -8,4 +8,6 @@ The structure of the project is as follow :
     Throw the python file "Script_client-TCP" to start the App
   -Documents_produced
 
+The components used are thoses : ESP8266 (nodeMCU), MCP3301, MCP6002 et LM335Z
+
 JAOUANNE Lilian & GARCON Bastian
